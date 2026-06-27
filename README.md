@@ -45,7 +45,7 @@ src/
 🚀 Setup Instructions
 
 1️⃣ Clone repository
-git clone https://github.com/sahumansi105-lgtm/student-management-backend.git
+git clone https://github.com/sahumansi105-lgtm/student-management-backend
 cd student-management-backend
 2️⃣ Install dependencies
 npm install
