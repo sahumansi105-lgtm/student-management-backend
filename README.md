@@ -45,6 +45,3 @@ src/
 ├── uploads/
 └── server.js
 
----
-
-## 📁 Project Structure
