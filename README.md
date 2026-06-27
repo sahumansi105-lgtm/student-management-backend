@@ -13,12 +13,15 @@ It provides REST APIs for managing students with full CRUD operations, along wit
 ❌ Delete Student
 🧾 Prisma ORM for database management
 🛡️ Middleware-based architecture
+
 🛠️ Tech Stack
 Node.js
 Express.js
 Prisma ORM
 PostgreSQL / MySQL
 JavaScript (ES6)
+
+
 📁 Project Structure
 src/
 ├── config/
@@ -38,7 +41,9 @@ src/
 │   └── markRoutes.js
 ├── uploads/
 └── server.js
+
 🚀 Setup Instructions
+
 1️⃣ Clone repository
 git clone https://github.com/sahumansi105-lgtm/student-management-backend.git
 cd student-management-backend
