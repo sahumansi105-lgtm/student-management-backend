@@ -26,22 +26,22 @@ It provides REST APIs for managing students with full CRUD operations, along wit
 - JavaScript (ES6)
 
 ## 📁 Project Structure
-- src/
+src/
 ├── config/
-│ └── prisma.js
+│   └── prisma.js
 ├── controllers/
-│ ├── studentController.js
-│ ├── authController.js
-│ └── markController.js
+│   ├── studentController.js
+│   ├── authController.js
+│   └── markController.js
 ├── middleware/
-│ ├── authMiddleware.js
-│ ├── adminMiddleware.js
-│ ├── errorMiddleware.js
-│ └── uploadMiddleware.js
+│   ├── authMiddleware.js
+│   ├── adminMiddleware.js
+│   ├── errorMiddleware.js
+│   └── uploadMiddleware.js
 ├── routes/
-│ ├── studentRoutes.js
-│ ├── authRoutes.js
-│ └── markRoutes.js
+│   ├── studentRoutes.js
+│   ├── authRoutes.js
+│   └── markRoutes.js
 ├── uploads/
 └── server.js
 
